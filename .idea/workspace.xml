@@ -93,8 +93,8 @@
       <file leaf-file-name="usuario.service.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projec/src/usuario.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,7 +137,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/projec/src/HTML/faq.html" />
-        <option value="$PROJECT_DIR$/projec/src/usuario.service.ts" />
         <option value="$PROJECT_DIR$/projec/src/app.controller.spec.ts" />
         <option value="$PROJECT_DIR$/projec/src/log.middleware.ts" />
         <option value="$PROJECT_DIR$/projec/src/app.controller.ts" />
@@ -146,6 +145,7 @@
         <option value="$PROJECT_DIR$/projec/src/PreguntasFrecuentes.ts" />
         <option value="$PROJECT_DIR$/projec/src/app.faq-controlador.ts" />
         <option value="$PROJECT_DIR$/projec/src/app.inicio-controlador.ts" />
+        <option value="$PROJECT_DIR$/projec/src/usuario.service.ts" />
       </list>
     </option>
   </component>
@@ -261,7 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526357487518</updated>
       <workItem from="1526357488921" duration="6614000" />
-      <workItem from="1526364877561" duration="9845000" />
+      <workItem from="1526364877561" duration="10372000" />
     </task>
     <servers />
   </component>
@@ -280,7 +280,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16459000" />
+    <option name="totallyTimeSpent" value="16986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -512,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projec/src/usuario.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
